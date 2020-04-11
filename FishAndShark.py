@@ -82,6 +82,7 @@ class RandomCreature :
          print('Shark: ', number_of_shark)
          print('Fish: ', number_of_fish)
          print('Empty: ', empty)
+
          collect.append(number_of_shark)
          collect.append(number_of_fish)
          collect.append(total_age_shark/number_of_shark)
